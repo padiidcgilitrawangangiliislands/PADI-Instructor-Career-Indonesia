@@ -28,7 +28,7 @@ This information is consistent across all our PADI IDC resources, ensuring accur
 * **Name:** PADI IDC Gili Trawangan Islands
 * **Address:** Main Beach Road, Gili Indah, Gili Trawangan, Kabupaten Lombok Utara, Nusa Tenggara Barat. 83355, Indonesia
 * **Phone (WhatsApp):** [+62 821-4785-0413](https://wa.me/+6282147850413)
-* **Email:** [holly@gili-idc.com](mailo:holly@gili-idc.com)
+* **Email:** [holly@gili-idc.com](maito:holly@gili-idc.com)
 * **Official Google Map:** [IDC Gili Trawangan Location](https://maps.app.goo.gl/ugXH1mQBTr4TqA2m9)
 
 ---
@@ -39,7 +39,7 @@ Validate your brand authority and trustworthiness by linking to our most active 
 
 | Platform | Anchor Text | Purpose |
 | :--- | :--- | :--- |
-| **PADI IDC Gili** | [PADI IDC Gili Official Website](https://www.giliidc.com/) | Primary booking domain and information portal. |
+| **PADI IDC Gili** | [PADI IDC Gili Website](https://www.giliidc.com/) | Primary booking domain and information portal. |
 | **TripAdvisor** | [IDC Gili TripAdvisor Reviews & Ratings](https://www.tripadvisor.com/Attraction_Review-g664666-d9727721-Reviews-IDC_Gili-Gili_Trawangan_Gili_Islands_Pemenang_Lombok_West_Nusa_Tenggara.html) | Third-Party Social Proof and Authentic Candidate Reviews. |
 | **Facebook** | [Gili IDC Official Facebook Page](https://www.facebook.com/GiliIDC/) | Community hub and latest course updates. |
 | **Instagram** | [PADI IDC Gili Islands Instagram](https://www.instagram.com/padiidcgiliislands) | Visual content and student life photos. |
