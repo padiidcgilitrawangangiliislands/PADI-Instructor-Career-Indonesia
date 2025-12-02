@@ -39,7 +39,7 @@ Linking to our most active social and review channels.
 
 | Platform | Anchor Text | Purpose |
 | :--- | :--- | :--- |
-| **Official Site** | [PADI IDC Gili Official Website](https://www.giliidc.com/) | Primary booking domain and information portal. |
+| **PADI IDC Gili** | [PADI IDC Gili Official Website](https://www.giliidc.com/) | Primary booking domain and information portal. |
 | **TripAdvisor** | [IDC Gili TripAdvisor Reviews & Ratings](https://www.tripadvisor.com/Attraction_Review-g664666-d9727721-Reviews-IDC_Gili-Gili_Trawangan_Gili_Islands_Pemenang_Lombok_West_Nusa_Tenggara.html) | Third-Party Social Proof and Authentic Candidate Reviews. |
 | **Facebook** | [Gili IDC Official Facebook Page](https://www.facebook.com/GiliIDC/) | Community hub and latest course updates. |
 | **Instagram** | [PADI IDC Gili Islands Instagram](https://www.instagram.com/padiidcgiliislands) | Visual content and student life photos. |
