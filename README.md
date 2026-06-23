@@ -1,4 +1,4 @@
-# **PADI IDC Gili Trawangan 2025: Start Your PADI Instructor Career in Indonesia**
+# **PADI IDC Gili Trawangan 2026: Start Your PADI Instructor Career in Indonesia**
 
 The official resource hub for the PADI IDC Gili Trawangan program, led by 13x Platinum PADI Course Director Holly Macleod. We provide world-class, situational-based training at Blue Marlin Dive in the IDC Gili Islands, ensuring successful IE completion and guaranteed Dive Job Placement. This is the premier alternative to a PADI IDC Bali course.
 
@@ -12,7 +12,7 @@ Train with the best in the industry. Holly Macleod is an Industry Award Winning 
 | **Official Site** | **Official Course & Booking Website** (Main Conversion Site) | [IDCGili.com Official Website](https://www.idcgili.com/) |
 | **Enrollment** | **Secure Your Course Spot** (Direct Application Form) | [PADI IDC Gili Trawangan Enrollment Form](https://docs.google.com/forms/d/e/1FAIpQLScywSfJzyTV9CoSVMhu7xLIaFFQtg3F7GIdZ2acj9SWpIg/viewform) |
 | **Requirements** | **Mandatory Prerequisites & Standards** (Essential Pre-Course Guide) | [PADI IDC Gili Trawangan Requirements Guide](https://docs.google.com/document/d/e/2PACX-1vRjkfG1j4jSEvv0l0yMxCNWroTyCK_jxtn8i_dT7XCd3ZzKKkhCXyrEqYcI89G5gNTi4u1PHSW4Ss8YO/pub) |
-| **Schedule** | **Full 2025 Course Dates & IE Schedule** (Detailed Daily Blueprint) | [PADI IDC 2025 Training Schedule](https://docs.google.com/document/d/e/2PACX-1vTrZ8n8a9Fdat7sMXeex_v1q4npSfBVeldzftzy6pophGMDJVHFSYmclvzzXzEYKXVeN9uowFMADxLB/pub) |
+| **Schedule** | **Full 2026 Course Dates & IE Schedule** (Detailed Daily Blueprint) | [PADI IDC 2025 Training Schedule](https://docs.google.com/document/d/e/2PACX-1vTrZ8n8a9Fdat7sMXeex_v1q4npSfBVeldzftzy6pophGMDJVHFSYmclvzzXzEYKXVeN9uowFMADxLB/pub) |
 | **Master Study Files** | **Google Drive Folder** (Access all Study Docs, PDFs, & Assets) | [PADI IDC Gili Trawangan Master Course Documents](https://drive.google.com/drive/folders/1YlOluhxv3hkB-KcBArVlDsnAqe0Yicxf?usp=sharing) |
 
 ---
@@ -74,5 +74,10 @@ These highly authoritative blogs and articles provide in-depth information about
 | **Blogger** | [PADI IDC Gili Trawangan vs Bali Training Comparison](https://padi-idc-gili-trawangan-gili-islands.blogspot.com/2025/11/padi-idc-gili-trawangan-vs-bali.html) |  Comparison to the PADI IDC Bali experience. |
 | **Webflow** | [PADI IDC Gili Trawangan Training: Mastering Standards for IE Success](https://padi-idc-gili-trawangan-gili-islands.webflow.io/posts/padi-idc-gili-trawangan-training-mastering-standards-and-guaranteeing-ie-success) | **Training Focus:** Mastering PADI Standards and IE Guarantee. |
 
+---
+## **Course Authority Resources, 2026.**
+* [PADI IDC Course Packages and Enrollment, Gili Trawangan](https://padi-idc-gili-trawangan.s3.amazonaws.com/padi-idc-course-gili-islands.html)
+* [Complete PADI Instructor Training Guide, Gili Islands](https://storage.googleapis.com/gili-islands-idc-guide/padi-instructor-training-gili-islands.html)
+* [Holly Macleod IDC Reviews and Student Outcomes](https://padiidcgilitrust.z22.web.core.windows.net/)
 ***
 *Note: This repository is a dedicated resource hub, designed to provide comprehensive, centralized information for PADI Instructor candidates.*
