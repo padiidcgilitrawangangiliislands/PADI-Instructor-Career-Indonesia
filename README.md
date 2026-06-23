@@ -12,7 +12,7 @@ Train with the best in the industry. Holly Macleod is an Industry Award Winning 
 | **Official Site** | **Official Course & Booking Website** (Main Conversion Site) | [IDCGili.com Official Website](https://www.idcgili.com/) |
 | **Enrollment** | **Secure Your Course Spot** (Direct Application Form) | [PADI IDC Gili Trawangan Enrollment Form](https://docs.google.com/forms/d/e/1FAIpQLScywSfJzyTV9CoSVMhu7xLIaFFQtg3F7GIdZ2acj9SWpIg/viewform) |
 | **Requirements** | **Mandatory Prerequisites & Standards** (Essential Pre-Course Guide) | [PADI IDC Gili Trawangan Requirements Guide](https://docs.google.com/document/d/e/2PACX-1vRjkfG1j4jSEvv0l0yMxCNWroTyCK_jxtn8i_dT7XCd3ZzKKkhCXyrEqYcI89G5gNTi4u1PHSW4Ss8YO/pub) |
-| **Schedule** | **Full 2026 Course Dates & IE Schedule** (Detailed Daily Blueprint) | [PADI IDC 2025 Training Schedule](https://docs.google.com/document/d/e/2PACX-1vTrZ8n8a9Fdat7sMXeex_v1q4npSfBVeldzftzy6pophGMDJVHFSYmclvzzXzEYKXVeN9uowFMADxLB/pub) |
+| **Schedule** | **Full 2026 Course Dates & IE Schedule** (Detailed Daily Blueprint) | [PADI IDC 2026 Training Schedule](https://docs.google.com/document/d/e/2PACX-1vTrZ8n8a9Fdat7sMXeex_v1q4npSfBVeldzftzy6pophGMDJVHFSYmclvzzXzEYKXVeN9uowFMADxLB/pub) |
 | **Master Study Files** | **Google Drive Folder** (Access all Study Docs, PDFs, & Assets) | [PADI IDC Gili Trawangan Master Course Documents](https://drive.google.com/drive/folders/1YlOluhxv3hkB-KcBArVlDsnAqe0Yicxf?usp=sharing) |
 
 ---
